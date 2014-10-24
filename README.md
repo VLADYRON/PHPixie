@@ -1,4 +1,0 @@
-PHPixie
-=======
-
-phpixie tutorial
